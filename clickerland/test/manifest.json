@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "game": "clickerland",
+  "channel": "test",
+  "keyId": "test-1",
+  "published": "2026-10-25T13:02:23Z",
+  "windows": {
+    "version": "1.0.1",
+    "build": 101,
+    "minSupportedBuild": 0,
+    "mandatory": false,
+    "package": { "url": "https://github.com/Ryngmarks/clickerland-updates/releases/download/test-1.0.1/ClickerLand-1.0.1-win64.zip", "size": 72398200, "sha256": "52f6c3dc4497e76fa29de3e5018e25ec90c4d3495ef9f39ac4a1fe27357e402a" }
+  },
+  "releases": [
+    { "version": "1.0.1", "build": 101, "date": "2026-10-25",
+      "notes": ["New: the game can now update itself.", "Fixed: the Download & Restart button no longer clips its text."] }
+  ]
+}
