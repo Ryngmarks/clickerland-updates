@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "game": "clickerland",
+  "channel": "beta",
+  "keyId": "beta-1",
+  "published": "2026-10-25T13:45:59Z",
+  "windows": {
+    "version": "0.0.1",
+    "build": 1,
+    "minSupportedBuild": 0,
+    "mandatory": false,
+    "package": { "url": "https://github.com/Ryngmarks/clickerland-updates/releases/download/beta-0.0.1/ClickerLand-0.0.1-win64.zip", "size": 72405445, "sha256": "8e2aa4588e8eea13c37ef1080efa504f297e87b43044ee9a230e6a1d6df5f95a" }
+  },
+  "releases": [
+    { "version": "0.0.1", "build": 1, "date": "2026-10-25",
+      "notes": ["First beta for friends: 15 heroes, five zones, bosses, the Ring, achievements and music.", "The game updates itself when a new version is out."] }
+  ]
+}
