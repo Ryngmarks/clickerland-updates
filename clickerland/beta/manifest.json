@@ -3,15 +3,17 @@
   "game": "clickerland",
   "channel": "beta",
   "keyId": "beta-1",
-  "published": "2026-10-25T13:45:59Z",
+  "published": "2026-10-30T07:14:27Z",
   "windows": {
-    "version": "0.0.1",
-    "build": 1,
+    "version": "0.1.0",
+    "build": 100,
     "minSupportedBuild": 0,
     "mandatory": false,
-    "package": { "url": "https://github.com/Ryngmarks/clickerland-updates/releases/download/beta-0.0.1/ClickerLand-0.0.1-win64.zip", "size": 72405445, "sha256": "8e2aa4588e8eea13c37ef1080efa504f297e87b43044ee9a230e6a1d6df5f95a" }
+    "package": { "url": "https://github.com/Ryngmarks/clickerland-updates/releases/download/beta-0.1.0/ClickerLand-0.1.0-win64.zip", "size": 77736006, "sha256": "aac410177edb59a4fe97d639730955f718f39e7e75c0723d1458e18f95e5a840" }
   },
   "releases": [
+    { "version": "0.1.0", "build": 100, "date": "2026-10-30",
+      "notes": ["New look: all 15 heroes have painted faces, and their weapons now sit in their hands and strike harder.", "Run cards: pick a card every 15 zones, then Seal the best ones into your deck when you destroy the Ring.", "The Ring Forge: spend Ring Shards on lasting damage upgrades and on control over your card picks.", "Legendary Powers: rare build-changing cards with a Keep or Scrap choice.", "The Star Forge: reach zone 500 to reforge the world, earn Star Iron and grow faster every layer.", "Buy All: one button buys every hero upgrade you can afford, cheapest first (hotkey U).", "Your old save upgrades itself: shards spent on old Ring Powers come back, and Ring Echo keeps you at least as strong."] },
     { "version": "0.0.1", "build": 1, "date": "2026-10-25",
       "notes": ["First beta for friends: 15 heroes, five zones, bosses, the Ring, achievements and music.", "The game updates itself when a new version is out."] }
   ]
