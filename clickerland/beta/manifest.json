@@ -3,15 +3,17 @@
   "game": "clickerland",
   "channel": "beta",
   "keyId": "beta-1",
-  "published": "2026-10-30T12:51:47Z",
+  "published": "2026-10-31T19:58:57Z",
   "windows": {
-    "version": "0.1.1",
-    "build": 101,
+    "version": "0.1.2",
+    "build": 102,
     "minSupportedBuild": 0,
     "mandatory": false,
-    "package": { "url": "https://github.com/Ryngmarks/clickerland-updates/releases/download/beta-0.1.1/ClickerLand-0.1.1-win64.zip", "size": 77879615, "sha256": "b7981a5b75c64b3cc5acf635d154c49d909144e78a44502e8cb824913996b691" }
+    "package": { "url": "https://github.com/Ryngmarks/clickerland-updates/releases/download/beta-0.1.2/ClickerLand-0.1.2-win64.zip", "size": 77854046, "sha256": "a9ccb9f100e868ab7ad92a0fcc66b0d48b11d7785ae9097829c592ed55fd8df7" }
   },
   "releases": [
+    { "version": "0.1.2", "build": 102, "date": "2026-10-31",
+      "notes": ["Fixed: the Destroy the Ring button now appears as soon as you reach zone 50, without restarting the game."] },
     { "version": "0.1.1", "build": 101, "date": "2026-10-30",
       "notes": ["The Journey: 56 milestones along The Road and The Wayside, with a tracker under the zone strip (hide it in Settings).", "Journey rewards: extra card picks that are sealed into your deck for good, plus Wayfarer's Strength (+1% damage each) and Patience (+3% idle damage each).", "Idle time counts on The Wayside, online and offline alike.", "Your old save gets full credit for milestones you have already reached."] },
     { "version": "0.1.0", "build": 100, "date": "2026-10-30",
